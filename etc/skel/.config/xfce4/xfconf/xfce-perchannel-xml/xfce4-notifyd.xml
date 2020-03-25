@@ -53,6 +53,6 @@
   <property name="expire-timeout" type="int" value="5"/>
   <property name="initial-opacity" type="double" value="1.000000"/>
   <property name="primary-monitor" type="uint" value="0"/>
-  <property name="theme" type="string" value="McOS-CTLina-XFCE"/>
+  <property name="theme" type="string" value="Juno-palenight"/>
   <property name="do-slideout" type="bool" value="true"/>
 </channel>

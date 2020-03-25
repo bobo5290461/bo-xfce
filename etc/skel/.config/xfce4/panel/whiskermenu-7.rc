@@ -1,6 +1,6 @@
 favorites=exo-preferred-applications.desktop,exo-file-manager.desktop,urxvt.desktop,firefox.desktop,filezilla.desktop,discord.desktop,telegramdesktop.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,qt5ct.desktop
 recent=
-button-title=\ 
+button-title=
 button-icon=/usr/share/pixmaps/xfce4-panel-menu.png
 button-single-row=false
 show-button-title=true
@@ -26,7 +26,6 @@ menu-height=608
 menu-opacity=90
 command-settings=xfce4-settings-manager
 show-command-settings=true
-command-lockscreen=betterlockscreen -l dimblur
 show-command-lockscreen=true
 command-switchuser=xfce4-session-logout -u
 show-command-switchuser=false
@@ -77,4 +76,3 @@ name=Open URI
 pattern=^(file|http|https):\\/\\/(.*)$
 command=exo-open \\0
 regex=true
-
